@@ -41,4 +41,4 @@ integrations:
     - integrationName: "ecr-test"
       type: ecr
     - integrationName: "docker-test"
-      type: docker
+      type: dockerRegistryLogin
